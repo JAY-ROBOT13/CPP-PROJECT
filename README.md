@@ -24,3 +24,19 @@ A menu-driven calculator that performs basic and scientific operations.
 - User Input/Output
 
 ---
+ ## 2.Quiz Application
+A simple console-based quiz application where users answer multiple-choice questions and receive a final score.
+
+**Features**
+- Multiple-choice questions
+- Score calculation
+- Instant feedback
+- Final result
+
+**Concepts Used**
+- If-Else
+- Variables
+- Loops
+- User Input/Output
+
+---
