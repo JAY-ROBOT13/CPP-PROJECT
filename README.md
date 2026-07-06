@@ -40,3 +40,19 @@ A simple console-based quiz application where users answer multiple-choice quest
 - User Input/Output
 
 ---
+
+### 3. Digital Clock
+A digital clock that displays the current system time.
+
+**Features**
+- Live time display
+- Updates every second
+- Easy-to-understand implementation
+
+**Concepts Used**
+- Loops
+- Time Functions
+- Console Output
+
+---
+
