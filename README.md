@@ -56,3 +56,19 @@ A digital clock that displays the current system time.
 
 ---
 
+### 4.Mini Compiler
+A simple compiler simulation that evaluates arithmetic expressions.
+
+**Features**
+- Reads arithmetic expressions
+- Supports +, -, *, /
+- Displays calculated result
+
+**Concepts Used**
+- Switch Case
+- Operators
+- Input Parsing
+- Conditional Statements
+
+---
+
